@@ -1,0 +1,6 @@
+{
+  "name": "Checkoji - Trust Network & Peer Review Snippet",
+  "description": "State-of-the-art trust snippet widget for D2C brands, restaurants, and businesses that reveals which of a shopper's actual contacts have used the product or service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
